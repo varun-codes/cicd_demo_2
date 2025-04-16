@@ -1,0 +1,23 @@
+{
+    "app_name": "CICD Demo App",
+    "app_version": "1.0.0",
+    "created_at_ms": 1744774278000,
+    "deployed_solution_id": "94e05498-d911-4cf4-a88e-99a54687cfbc",
+    "description": "CICD Demo Deployment",
+    "human_review_level": "run_based",
+    "human_review_mode": "ON",
+    "id": "01963ca6-abd5-73d3-9d3e-acc06197c256",
+    "last_run_job_id": "a28f93bb-65b0-492c-8c10-d7f4650ab34e",
+    "last_run_status": "COMPLETE",
+    "last_run_timestamp_ns": 1744774296665143992,
+    "metric_alerts": null,
+    "name": "CICD Demo Deployment",
+    "notification_emails": null,
+    "owner": "varun_nandan",
+    "retention_settings": {},
+    "review_within_sec": null,
+    "state": "ACTIVE",
+    "updated_at_ms": 1744774278000,
+    "webhooks": null,
+    "workspace": "SolEng_workspace"
+}
